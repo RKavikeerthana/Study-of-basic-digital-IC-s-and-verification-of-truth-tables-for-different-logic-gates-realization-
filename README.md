@@ -59,6 +59,7 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 # Program:
 /*
+```py
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: R.Kavi keerthana
 RegisterNumber: 212222100022
@@ -78,6 +79,7 @@ endmodule
 */
 Logic symbol & Truthtable
 RTL realization
+```
 # Output:
 # RTL
 ![2023-04-16](https://user-images.githubusercontent.com/120431120/232956655-cb3e52ac-6f17-4b3d-bfb8-9b0fffcb59c5.png)
